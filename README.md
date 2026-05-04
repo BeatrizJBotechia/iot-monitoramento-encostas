@@ -4,7 +4,7 @@
 
 * Beatriz de Jesus Botechia
 * Daniella Bizigatth Simplicio da Silva
-* Guilherme Morais Silva1, André Luís de Oliveira
+* Guilherme Morais Silva
 
 Universidade Presbiteriana Mackenzie
 Disciplina: Objetos Inteligentes Conectados
