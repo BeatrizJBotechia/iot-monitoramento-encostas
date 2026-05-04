@@ -17,6 +17,15 @@ Disciplina: Objetos Inteligentes Conectados
 Sistema IoT para monitoramento de encostas utilizando ESP32 e MQTT para transmissão de dados em tempo real.
 ---
 
+## Protótipo eletrônico
+
+![Protótipo ESP32](imagens/prototipo-3d.png)
+
+## Comunicação MQTT em funcionamento
+
+![MQTT](imagens/mqtt-monitoramento.png)
+---
+
 ## Tecnologias Utilizadas
 
 * ESP32
@@ -38,8 +47,8 @@ Sistema IoT para monitoramento de encostas utilizando ESP32 e MQTT para transmis
 ## Broker MQTT
 
 * Broker: broker.hivemq.com
-* Porta: 1883
-* Tópico: encosta/dados
+* Porta: 8884
+* Tópico: encosta/#
 ---
 
 ## Exemplo de Payload MQTT
