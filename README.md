@@ -133,8 +133,6 @@ encosta/#
 5. Monitorar as mensagens MQTT em tempo real
 ---
 
-## Link da Simulação no Wokwi
-
 [Projeto no Wokwi](https://wokwi.com/projects/457492869991865345)
 ---
 
